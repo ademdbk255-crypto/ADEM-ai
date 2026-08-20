@@ -1,0 +1,6 @@
+{
+  "name": "ADEM ai",
+  "description": "تطبيق ذكاء اصطناعي شامل ومتطور للمحادثة والإجابة عن الأسئلة، كتابة الأكواد والبرمجة، توليد الأفكار، والترجمة بدقة وسرعة فائقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
